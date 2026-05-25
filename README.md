@@ -6,7 +6,7 @@ Sample dataset tracking Gross Profit %, COGS, Net Sales and
 Profit Margin across 5 business segments and 6 countries.
 
 ## Dashboard Preview
-![Dashboard Preview](dashboard 1.png)
+<img src="Dashboard 1.png" width="1000">
 
 ## Tools Used
 - **SQL (MySQL)** — Data import, SQL views for KPI summaries
