@@ -2,7 +2,7 @@
 
 ## Overview
 Executive-style Tableau dashboard built on Microsoft Financial 
-Sample dataset tracking Gross Profit %, COGS, Net Sales and 
+Sample dataset tracking Gross Profit %, COGS, Net Sales, and 
 Profit Margin across 5 business segments and 6 countries.
 
 ## Dashboard Preview
@@ -13,10 +13,10 @@ Profit Margin across 5 business segments and 6 countries.
 - **Tableau Public** — 4-visual interactive dashboard
 
 ## Key Findings
-- Government segment generates highest profit across all segments
+- The government segment generates the highest profit across all segments
 - Financial Sample countries average 28%+ profit margin
-- Q4 consistently shows highest sales spike (Oct-Dec)
-- Channel Partners has lowest sales volume across all segments
+- Q4 consistently shows the highest sales spike (Oct-Dec)
+- Channel Partners has the lowest sales volume across all segments
 
 ## Visuals Built
 - KPI Cards: Total Sales, Total Profit, Total COGS, Gross Profit %
